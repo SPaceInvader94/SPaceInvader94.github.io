@@ -1,0 +1,12 @@
+
+# Disallow: /blog/        # Desativa a indexação do conteúdo da pasta 'blog'
+# Disallow: /siste        # Desativa a indexação de conteúdo, seja pasta ou arquivo, que comece com 'siste'
+# Disallow: secreto.php   # Desativa a indexação de conteúdo da página secreto.php
+# Allow: /blog/home.php   # A pasta blog, no exemplo acima, não será indexada, mas o conteúdo da página home.php, dentro dela, será indexado
+
+
+User-agent: *
+Disallow: /CSS/
+Disallow: /fonts/
+Disallow: /imagens/
+Disallow: /js/
