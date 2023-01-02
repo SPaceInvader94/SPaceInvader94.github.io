@@ -9,12 +9,12 @@
 /* 
 	you shall use this crap when editing ur files on ur PC.
 	please, comment this after upload to your server.
-	diretÛrios podem variar conforme o PC/usu·rio. siga ‡ sintaxe adequada! 
+	diret√≥rios podem variar conforme o PC/usu√°rio. siga √† sintaxe adequada! 
 */
 
 @font-face {
 				font-family: 'agency';
-				src: url("file:///C:/Users/EHTG/Documents/Computer/_Web/GFX_v0.2/fonts/agency fb.ttf");
+				src: url("/fonts/agency fb.ttf");
 }
 
 /*******/
@@ -24,7 +24,7 @@
 html, body {
 				font-family: 'agency';
 				background-color: #111;
-				background-image: url("file:///C:/Users/EHTG/Documents/Computer/_Web/GFX_v0.2/imagens/bg/5.jpg");
+				background-image: url("/imagens/bg/5.jpg");
 				background-repeat: repeat;
 }
 
@@ -270,10 +270,6 @@ ol {
 		left: 0;
 }
 
-.lt:hover {
-			/* background-image: url("file:///C:/Users/EHTG/Documents/Computer/_Web/GFX_v0.2/imagens/binaries.gif"); */
-}
-
 .lt ol li{
 			line-height: 1.35rem;
 			border-bottom: 1px solid #444;
@@ -287,10 +283,6 @@ ol {
 
 .rt {
 		right: 0;
-}
-
-.rt:hover {
-			/* background-image: url("file:///C:/Users/EHTG/Documents/Computer/_Web/GFX_v0.2/imagens/binaries.gif"); */
 }
 
 .rt ol li{
@@ -315,13 +307,9 @@ ol {
 			height: 100px;
 			position: absolute;
 			margin-top: 0;
-			background-image: url("file:///C:/Users/EHTG/Documents/Computer/_Web/GFX_v0.2/imagens/snow.png"),
-							  url("file:///C:/Users/EHTG/Documents/Computer/_Web/GFX_v0.2/imagens/snow2.png");
+			background-image: url("/imagens/snow.png"),
+							  url("/imagens/snow2.png");
 			/* opacity: 0.5; */
-}
-
-.header:hover {
-			/* background-image: url("file:///C:/Users/EHTG/Documents/Computer/_Web/GFX_v0.2/imagens/binaries.gif"); */
 }
 
 .header a {
@@ -732,7 +720,3 @@ table {
 		line-height: 1.25rem;
 	}
 }
-
-/********/
-/* END. */
-/********/
