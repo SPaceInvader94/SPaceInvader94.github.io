@@ -6,7 +6,7 @@ $(document).ready(function(){
 	}
 
 	function uiReset(){
-		$('html').css({backgroundColor: '#111', color: '#fff', backgroundImage: 'url("file:///C:/Users/EHTG/Documents/Computer/_Web/GFX_v0.2/imagens/bg/5.jpg"'});
+		$('html').css({backgroundColor: '#111', color: '#fff', backgroundImage: 'url("/imagens/bg/5.jpg"'});
 		$('.header').css('background-color', '#0a0a0a');
 		$('.header a').css('color', '#fff');
 		$('.header2').css('color', '#fff');
@@ -38,7 +38,7 @@ $(document).ready(function(){
 	}
 
 	function uiChange(){
-		$('html').css({backgroundColor: '#123', color: '#a7e1ff', backgroundImage: 'url("file:///C:/Users/EHTG/Documents/Computer/_Web/GFX_v0.2/imagens/bg/6.jpg"'});
+		$('html').css({backgroundColor: '#123', color: '#a7e1ff', backgroundImage: 'url("/imagens/bg/6.jpg"'});
 		$('.header').css('background-color', '#2c324c');
 		$('.header a').css('color', '#a7e1ff');
 		$('.header2').css('color', '#a7e1ff');
