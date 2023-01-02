@@ -6,7 +6,7 @@
 
 
 User-agent: *
-Disallow: /CSS/
+Disallow: /css/
 Disallow: /fonts/
 Disallow: /imagens/
 Disallow: /js/
