@@ -21,25 +21,21 @@ $(document).ready(function(){
 		}
 
 		if(next == 1){
-			console.log('if, next == ' + next);
 			$('#ia1').show();
 			$('#ia2').hide();
 			$('#ia3').hide();
 			$('#ia4').hide();
 		}else if(next == 2){
-			console.log('else, if next == ' + next);
 			$('#ia1').hide();
 			$('#ia2').show();
 			$('#ia3').hide();	
 			$('#ia4').hide();
-		}else if(next == 3){	
-			console.log('else, if next == ' + next);
+		}else if(next == 3){
 			$('#ia1').hide();
 			$('#ia2').hide();
 			$('#ia3').show();
 			$('#ia4').hide();
 		}else{
-			console.log('else, next == ' + next);
 			$('#ia1').hide();
 			$('#ia2').hide();
 			$('#ia3').hide();
