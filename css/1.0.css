@@ -24,7 +24,7 @@
 html, body {
 				font-family: 'agency';
 				background-color: #111;
-				background-image: url("/imagens/bg/5.jpg");
+				background-image: url("imagens/bg/5.jpg");
 				background-repeat: repeat;
 }
 
@@ -307,8 +307,8 @@ ol {
 			height: 100px;
 			position: absolute;
 			margin-top: 0;
-			background-image: url("/imagens/snow.png"),
-							  url("/imagens/snow2.png");
+			background-image: url("imagens/snow.png"),
+							  url("imagens/snow2.png");
 			/* opacity: 0.5; */
 }
 
