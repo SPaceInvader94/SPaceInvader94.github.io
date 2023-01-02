@@ -1,17 +1,3 @@
-/* 
-	you should unmark this shit after upload this shit for ur host.
-	@font-face{font-family:'agency';src: url("/fonts/agency%20fb.ttf")}
-	@font-face{font-family:'carbon';src: url("/fonts/carbon%20blade.ttf")}
-	@font-face{font-family:'abbadon';src: url("/fonts/abbadon.ttf")}
-	@font-face{font-family:'gany';src: url("/fonts/ganymedian.ttf")}
-*/
-
-/* 
-	you shall use this crap when editing ur files on ur PC.
-	please, comment this after upload to your server.
-	diretórios podem variar conforme o PC/usuário. siga à sintaxe adequada! 
-*/
-
 @font-face {
 				font-family: 'agency';
 				src: url("fonts/agency fb.ttf");
