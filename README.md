@@ -1,2 +1,2 @@
 # Graphics
- My personal grapic service gallery
+ My personal graphic service gallery
