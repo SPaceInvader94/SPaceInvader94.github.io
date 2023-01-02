@@ -1,6 +1,6 @@
 @font-face {
 				font-family: 'agency';
-				src: url("fonts/agency fb.ttf");
+				src: url("spaceinvader94.github.io/fonts/agency fb.ttf");
 }
 
 /*******/
@@ -10,7 +10,7 @@
 html, body {
 				font-family: 'agency';
 				background-color: #111;
-				background-image: url("imagens/bg/5.jpg");
+				background-image: url("spaceinvader94.github.io/imagens/bg/5.jpg");
 				background-repeat: repeat;
 }
 
