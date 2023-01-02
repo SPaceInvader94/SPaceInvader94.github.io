@@ -1,6 +1,5 @@
 $(document).ready(function(){
 	var next = 0;
-	console.log('begin, next == ' + next);
 
 	timer();
 
